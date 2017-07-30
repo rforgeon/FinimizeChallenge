@@ -56,6 +56,12 @@ I decided to eliminate the first step and simply have the user click update with
 
 🔴 Notification on the goal should allow for the majority of feature discovery and interaction. It also might be nice to have an Intercom notification of the visual tracking feature once a user hits the /goals page.
 
+### Adding To The Feature
+
+The current tracking feature doesn't allow a reminder to save button. I like this feature in the /goals page as it allows a user to continue with the product but encourages them to come back at a later date. I would probably add this to the feature.
+
+![](https://cldup.com/UryOoGq8Eu.png)
+
 ### User Follow-Up On Feature
 
 Once in the hands of users, these are questions I'd like to see answered:
