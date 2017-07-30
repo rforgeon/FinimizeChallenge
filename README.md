@@ -58,9 +58,11 @@ I decided to eliminate the first step and simply have the user click update with
 
 ### Adding To The Feature
 
-The current tracking feature doesn't allow a reminder to save button. I like this feature in the /goals page as it allows a user to continue with the product but encourages them to come back at a later date. I would probably add this to the feature.
+The current tracking feature doesn't allow a "reminder to save money" button. I like this feature in the /goals page as it allows a user to continue with the product but encourages them to come back at a later date. I would probably add this to the feature.
 
 ![](https://cldup.com/UryOoGq8Eu.png)
+
+This would email the user encouraging them to transfer the money and come to the app to update/review their results.
 
 ### User Follow-Up On Feature
 
