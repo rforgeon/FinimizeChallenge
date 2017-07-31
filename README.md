@@ -5,7 +5,7 @@
 
 ## Outline
 1. Organizing Persona and Creating User [Job] Story.
-2. Wire Framing
+2. Wireframing
 3. Graphing & Sketch
 4. Discoveries and Alterations
 5. Next Steps
@@ -19,7 +19,7 @@ Below is a preview of the story, but click [here](https://airtable.com/shriib91Z
 
 ![](https://cldup.com/Ikl4oNQFvJ.png)
 
-## Wire Framing
+## Wireframing
 
 After establishing what Jason's story might look like to track progress towards his goal, I began putting pen to paper. Bellow are a couple of my initial sketches. However, be sure to open the above 👆 Airtable User Story document to reference the sketches with each story line.
 
@@ -27,20 +27,20 @@ After establishing what Jason's story might look like to track progress towards 
 
 While putting together some ideas, I immediately realized how useful [HighCharts](https://www.highcharts.com/) would be for this feature.
 
-I began playing around with the HighCharts API to see if something could be created in line with my initial wire framing. Check out the JsFiddle [here](http://jsfiddle.net/cwgeg9r3/).
+I began playing around with the HighCharts API to see if something could be created in line with my initial wireframing. Check out the JsFiddle [here](http://jsfiddle.net/cwgeg9r3/).
 
 ## Graphing & Sketch
 
 Once I had an idea of how to layout the UI, I dove into Sketch. The starter template greatly helped to match Finimize's design.
 
-This is where I brought together my wire frames, JsFiddle graph, and Finimize's design to show off a potential full package.
+This is where I brought together my wireframes, JsFiddle graph, and Finimize's design to show off a potential full package.
 
 ![](https://cldup.com/WwnYCBZVi7.png)
 ![](https://cldup.com/2Tmo5JuCBp.png)
 
 ## Discoveries and Alterations
 
-While wire framing, I came to a nice discovery that allowed me to eliminate a step for the user in the tracking process.
+While wireframing, I came to a nice discovery that allowed me to eliminate a step for the user in the tracking process.
 
 You can see these steps in the "Deprecated" section of my AirTable User Story document.
 
